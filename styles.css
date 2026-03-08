@@ -1,0 +1,39 @@
+.site-header {
+    max-width: 600px;
+    margin: auto;
+    line-height: 40px;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 40px;
+    line-height: 25px;
+}
+
+.contents {
+    font-weight: bold;
+    border-top: 1px solid grey;
+    margin-bottom: 40px;
+}
+
+.caption {
+    background-color: rgb(240, 240, 240);
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.body {
+    font-size: 18px;
+}
+
+.main {
+    max-width: 600px;
+    margin: auto;
+}
+
+.hero-image {
+    width: 100%;
+    display: block;
+    border-bottom: 5px solid rgb(255, 185, 23);
+}
